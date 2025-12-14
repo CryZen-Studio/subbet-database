@@ -82,6 +82,21 @@
       "totalWithdrawn": 0,
       "totalBets": 0,
       "totalWins": 0
+    },
+    {
+      "id": 1765735791843,
+      "email": "b62282545@gmail.com",
+      "password": "097468",
+      "balance": 0,
+      "isAdmin": false,
+      "createdAt": "2025-12-14T18:09:51.843Z",
+      "minesLuck": 0.5,
+      "minesPlayed": 0,
+      "minesWon": 0,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "totalBets": 0,
+      "totalWins": 0
     }
   ],
   "transactions": [
@@ -98,5 +113,5 @@
   "bets": [],
   "houseProfit": 0,
   "jackpot": 1284759.31,
-  "lastUpdate": "2025-12-14T18:09:00.181Z"
+  "lastUpdate": "2025-12-14T18:09:51.844Z"
 }
