@@ -72,7 +72,7 @@
       "id": 1765726881954,
       "email": "iogfd@gmail.com",
       "password": "123",
-      "balance": 0,
+      "balance": 10,
       "isAdmin": false,
       "createdAt": "2025-12-14T15:41:21.954Z",
       "minesLuck": 0.5,
@@ -84,9 +84,19 @@
       "totalWins": 0
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "id": 1765730004942,
+      "userId": 1765726881954,
+      "type": "admin_adjust",
+      "amount": 10,
+      "description": "Ajuste administrativo",
+      "date": "2025-12-14T16:33:24.942Z",
+      "adminId": 1
+    }
+  ],
   "bets": [],
   "houseProfit": 0,
   "jackpot": 1284759.31,
-  "lastUpdate": "2025-12-14T16:32:22.721Z"
+  "lastUpdate": "2025-12-14T16:33:24.943Z"
 }
