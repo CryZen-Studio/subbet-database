@@ -21,11 +21,26 @@
       "minesLuck": 0.5,
       "minesPlayed": 0,
       "minesWon": 0
+    },
+    {
+      "id": 1765725052226,
+      "email": "igor@gmail.com",
+      "password": "123",
+      "balance": 50,
+      "isAdmin": false,
+      "createdAt": "2025-12-14T15:10:52.226Z",
+      "minesLuck": 0.5,
+      "minesPlayed": 0,
+      "minesWon": 0,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "totalBets": 0,
+      "totalWins": 0
     }
   ],
   "transactions": [],
   "bets": [],
   "houseProfit": 0,
   "jackpot": 1284759.31,
-  "lastUpdate": "2025-12-14T15:10:36.314Z"
+  "lastUpdate": "2025-12-14T15:10:52.227Z"
 }
