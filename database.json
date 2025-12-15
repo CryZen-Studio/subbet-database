@@ -315,12 +315,13 @@
       "game": "subway",
       "betAmount": 5,
       "multiplier": 1,
-      "winAmount": 0,
-      "status": "active",
-      "createdAt": "2025-12-15T14:07:35.154Z"
+      "winAmount": 4.17,
+      "status": "cashed_out",
+      "createdAt": "2025-12-15T14:07:35.154Z",
+      "endedAt": "2025-12-15T14:07:52.662Z"
     }
   ],
   "houseProfit": 45.89999999999999,
   "jackpot": 1285957.3616455141,
-  "lastUpdate": "2025-12-15T14:07:51.011Z"
+  "lastUpdate": "2025-12-15T14:07:52.662Z"
 }
