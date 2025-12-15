@@ -104,7 +104,7 @@
       "id": 1765807377057,
       "email": "igorzinbrs@gmail.com",
       "password": "0298",
-      "balance": 175.41,
+      "balance": 170.41,
       "isAdmin": false,
       "createdAt": "2025-12-15T14:02:57.058Z",
       "minesLuck": 1,
@@ -112,7 +112,7 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 4,
+      "totalBets": 5,
       "totalWins": 2,
       "lastLogin": "2025-12-15T14:04:29.089Z"
     }
@@ -224,6 +224,14 @@
       "amount": 50,
       "description": "Ganho no scratch",
       "date": "2025-12-15T14:07:19.470Z"
+    },
+    {
+      "id": 1765807654191,
+      "userId": 1765807377057,
+      "type": "bet",
+      "amount": 5,
+      "description": "Aposta no subway",
+      "date": "2025-12-15T14:07:34.191Z"
     }
   ],
   "bets": [
@@ -294,7 +302,7 @@
       "endedAt": "2025-12-15T14:07:20.288Z"
     }
   ],
-  "houseProfit": 41.64999999999999,
-  "jackpot": 1285801.1255077817,
-  "lastUpdate": "2025-12-15T14:07:20.288Z"
+  "houseProfit": 45.89999999999999,
+  "jackpot": 1285921.5339884548,
+  "lastUpdate": "2025-12-15T14:07:34.191Z"
 }
