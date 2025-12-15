@@ -107,7 +107,7 @@
       "balance": 148.21,
       "isAdmin": false,
       "createdAt": "2025-12-15T14:02:57.058Z",
-      "minesLuck": 0.5,
+      "minesLuck": 1,
       "minesPlayed": 0,
       "minesWon": 0,
       "totalDeposited": 0,
@@ -166,6 +166,15 @@
       "description": "Ajuste administrativo",
       "date": "2025-12-15T14:03:31.594Z",
       "adminId": 1
+    },
+    {
+      "id": 1765807429199,
+      "userId": 1765807377057,
+      "type": "admin_adjust",
+      "amount": 0,
+      "description": "Ajuste administrativo",
+      "date": "2025-12-15T14:03:49.199Z",
+      "adminId": 1
     }
   ],
   "bets": [
@@ -193,6 +202,6 @@
     }
   ],
   "houseProfit": 11.05,
-  "jackpot": 1284851.6186835181,
-  "lastUpdate": "2025-12-15T14:03:31.594Z"
+  "jackpot": 1284929.657334224,
+  "lastUpdate": "2025-12-15T14:03:49.199Z"
 }
