@@ -104,7 +104,7 @@
       "id": 1765807377057,
       "email": "igorzinbrs@gmail.com",
       "password": "0298",
-      "balance": 5000000,
+      "balance": 4500000,
       "isAdmin": false,
       "createdAt": "2025-12-15T14:02:57.058Z",
       "minesLuck": 1,
@@ -112,7 +112,7 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 6,
+      "totalBets": 7,
       "totalWins": 3,
       "lastLogin": "2025-12-16T02:50:21.918Z"
     }
@@ -314,6 +314,14 @@
       "description": "Ajuste administrativo",
       "date": "2025-12-16T03:34:34.381Z",
       "adminId": 1
+    },
+    {
+      "id": 1765853479552,
+      "userId": 1765807377057,
+      "type": "bet",
+      "amount": 500000,
+      "description": "Saque via PIX (phone)",
+      "date": "2025-12-16T02:51:19.552Z"
     }
   ],
   "bets": [
@@ -439,7 +447,7 @@
       "endedAt": "2025-12-16T03:18:29.225Z"
     }
   ],
-  "houseProfit": 980.9,
-  "jackpot": 1286903.0151748424,
-  "lastUpdate": "2025-12-16T02:50:21.918Z"
+  "houseProfit": 425980.9,
+  "jackpot": 1288667.0080518257,
+  "lastUpdate": "2025-12-16T02:51:19.552Z"
 }
