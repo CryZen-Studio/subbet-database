@@ -380,12 +380,13 @@
       "game": "mines",
       "betAmount": 50,
       "multiplier": 7.5,
-      "winAmount": 0,
-      "status": "active",
-      "createdAt": "2025-12-16T03:18:04.011Z"
+      "winAmount": 204.99999999999997,
+      "status": "cashed_out",
+      "createdAt": "2025-12-16T03:18:04.011Z",
+      "endedAt": "2025-12-16T03:18:09.344Z"
     }
   ],
   "houseProfit": 173.39999999999998,
   "jackpot": 1286108.090976784,
-  "lastUpdate": "2025-12-16T03:18:08.798Z"
+  "lastUpdate": "2025-12-16T03:18:09.344Z"
 }
