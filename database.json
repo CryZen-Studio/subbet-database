@@ -4,7 +4,7 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 1000011.05,
+      "balance": 1000261.05,
       "isAdmin": true,
       "createdAt": "2025-12-14T15:10:36.312Z",
       "minesLuck": 0.5,
@@ -12,7 +12,7 @@
       "minesWon": 0,
       "lastLogin": "2025-12-16T03:17:30.965Z",
       "totalBets": 6,
-      "totalWins": 3
+      "totalWins": 4
     },
     {
       "id": 2,
@@ -280,6 +280,14 @@
       "amount": 50,
       "description": "Aposta no scratch",
       "date": "2025-12-16T03:18:19.330Z"
+    },
+    {
+      "id": 1765855108628,
+      "userId": 1,
+      "type": "win",
+      "amount": 250,
+      "description": "Ganho no scratch",
+      "date": "2025-12-16T03:18:28.628Z"
     }
   ],
   "bets": [
@@ -405,6 +413,6 @@
     }
   ],
   "houseProfit": 215.89999999999998,
-  "jackpot": 1286132.1671273103,
-  "lastUpdate": "2025-12-16T03:18:20.059Z"
+  "jackpot": 1286216.1556680016,
+  "lastUpdate": "2025-12-16T03:18:28.628Z"
 }
