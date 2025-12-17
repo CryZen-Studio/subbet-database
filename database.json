@@ -104,7 +104,7 @@
       "id": 1765807377057,
       "email": "igorzinbrs@gmail.com",
       "password": "0298",
-      "balance": 62.75,
+      "balance": 67.75,
       "isAdmin": false,
       "createdAt": "2025-12-15T14:02:57.058Z",
       "minesLuck": 1,
@@ -113,7 +113,7 @@
       "totalDeposited": 0,
       "totalWithdrawn": 0,
       "totalBets": 9,
-      "totalWins": 3,
+      "totalWins": 4,
       "lastLogin": "2025-12-17T01:21:11.451Z"
     }
   ],
@@ -347,6 +347,14 @@
       "amount": 10,
       "description": "Aposta no scratch",
       "date": "2025-12-17T01:21:24.703Z"
+    },
+    {
+      "id": 1765934509771,
+      "userId": 1765807377057,
+      "type": "win",
+      "amount": 5,
+      "description": "Ganho no scratch",
+      "date": "2025-12-17T01:21:49.771Z"
     }
   ],
   "bets": [
@@ -483,6 +491,6 @@
     }
   ],
   "houseProfit": 426030.2,
-  "jackpot": 1289806.464054335,
-  "lastUpdate": "2025-12-17T01:21:25.680Z"
+  "jackpot": 1290150.6799511039,
+  "lastUpdate": "2025-12-17T01:21:49.771Z"
 }
