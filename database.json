@@ -104,7 +104,7 @@
       "id": 1765807377057,
       "email": "igorzinbrs@gmail.com",
       "password": "0298",
-      "balance": 155.25,
+      "balance": 105.25,
       "isAdmin": false,
       "createdAt": "2025-12-15T14:02:57.058Z",
       "minesLuck": 1,
@@ -112,7 +112,7 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 13,
+      "totalBets": 14,
       "totalWins": 8,
       "lastLogin": "2025-12-17T01:21:11.451Z"
     }
@@ -419,6 +419,14 @@
       "amount": 125,
       "description": "Ganho no mines",
       "date": "2025-12-17T01:45:06.882Z"
+    },
+    {
+      "id": 1765935980490,
+      "userId": 1765807377057,
+      "type": "bet",
+      "amount": 50,
+      "description": "Aposta no mines",
+      "date": "2025-12-17T01:46:20.490Z"
     }
   ],
   "bets": [
@@ -599,7 +607,7 @@
       "endedAt": "2025-12-17T01:45:08.995Z"
     }
   ],
-  "houseProfit": 426120.3,
-  "jackpot": 1309305.0471161688,
-  "lastUpdate": "2025-12-17T01:45:08.995Z"
+  "houseProfit": 426162.8,
+  "jackpot": 1310624.5432385085,
+  "lastUpdate": "2025-12-17T01:46:20.490Z"
 }
