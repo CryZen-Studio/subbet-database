@@ -104,7 +104,7 @@
       "id": 1765807377057,
       "email": "igorzinbrs@gmail.com",
       "password": "0298",
-      "balance": 72.75,
+      "balance": 62.75,
       "isAdmin": false,
       "createdAt": "2025-12-15T14:02:57.058Z",
       "minesLuck": 1,
@@ -112,9 +112,9 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 8,
+      "totalBets": 9,
       "totalWins": 3,
-      "lastLogin": "2025-12-17T01:21:11.281Z"
+      "lastLogin": "2025-12-17T01:21:11.451Z"
     }
   ],
   "transactions": [
@@ -339,6 +339,14 @@
       "amount": 48,
       "description": "Saque via PIX (phone)",
       "date": "2025-12-16T15:20:20.492Z"
+    },
+    {
+      "id": 1765934484703,
+      "userId": 1765807377057,
+      "type": "bet",
+      "amount": 10,
+      "description": "Aposta no scratch",
+      "date": "2025-12-17T01:21:24.703Z"
     }
   ],
   "bets": [
@@ -464,7 +472,7 @@
       "endedAt": "2025-12-16T03:18:29.225Z"
     }
   ],
-  "houseProfit": 426021.7,
-  "jackpot": 1289639.9318554017,
-  "lastUpdate": "2025-12-17T01:21:11.282Z"
+  "houseProfit": 426030.2,
+  "jackpot": 1289806.464054335,
+  "lastUpdate": "2025-12-17T01:21:24.703Z"
 }
