@@ -512,12 +512,13 @@
       "game": "scratch",
       "betAmount": 5,
       "multiplier": 1,
-      "winAmount": 0,
-      "status": "active",
-      "createdAt": "2025-12-17T01:21:55.128Z"
+      "winAmount": 5,
+      "status": "cashed_out",
+      "createdAt": "2025-12-17T01:21:55.128Z",
+      "endedAt": "2025-12-17T01:25:26.480Z"
     }
   ],
   "houseProfit": 426034.45,
-  "jackpot": 1293899.3619693222,
-  "lastUpdate": "2025-12-17T01:25:21.749Z"
+  "jackpot": 1294005.2164709116,
+  "lastUpdate": "2025-12-17T01:25:26.480Z"
 }
