@@ -524,9 +524,19 @@
       "status": "cashed_out",
       "createdAt": "2025-12-17T01:21:55.128Z",
       "endedAt": "2025-12-17T01:25:26.480Z"
+    },
+    {
+      "id": 1765934735752,
+      "userId": 1765807377057,
+      "game": "scratch",
+      "betAmount": 51,
+      "multiplier": 1,
+      "winAmount": 0,
+      "status": "active",
+      "createdAt": "2025-12-17T01:25:35.752Z"
     }
   ],
   "houseProfit": 426077.8,
   "jackpot": 1294082.8146337855,
-  "lastUpdate": "2025-12-17T01:25:35.153Z"
+  "lastUpdate": "2025-12-17T01:25:35.752Z"
 }
