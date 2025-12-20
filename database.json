@@ -4,14 +4,14 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 1000261.05,
+      "balance": 1000258.05,
       "isAdmin": true,
       "createdAt": "2025-12-14T15:10:36.312Z",
       "minesLuck": 0.5,
       "minesPlayed": 3,
       "minesWon": 0,
       "lastLogin": "2025-12-20T04:28:44.147Z",
-      "totalBets": 6,
+      "totalBets": 7,
       "totalWins": 4
     },
     {
@@ -475,6 +475,14 @@
       "amount": 67.30000000000001,
       "description": "Ganho no subway",
       "date": "2025-12-17T01:50:55.579Z"
+    },
+    {
+      "id": 1766204936213,
+      "userId": 1,
+      "type": "bet",
+      "amount": 3,
+      "description": "Aposta no mines",
+      "date": "2025-12-20T04:28:56.213Z"
     }
   ],
   "bets": [
@@ -677,7 +685,7 @@
       "endedAt": "2025-12-17T01:51:05.796Z"
     }
   ],
-  "houseProfit": 426205.3,
+  "houseProfit": 426207.85,
   "jackpot": 1315576.1776585123,
-  "lastUpdate": "2025-12-20T04:28:44.148Z"
+  "lastUpdate": "2025-12-20T04:28:56.213Z"
 }
