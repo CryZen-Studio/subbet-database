@@ -4,7 +4,7 @@
       "id": 1,
       "email": "admin@kingbet.com",
       "password": "senha123",
-      "balance": 1000258.05,
+      "balance": 1000272.15,
       "isAdmin": true,
       "createdAt": "2025-12-14T15:10:36.312Z",
       "minesLuck": 0.5,
@@ -12,7 +12,7 @@
       "minesWon": 0,
       "lastLogin": "2025-12-20T04:28:44.147Z",
       "totalBets": 7,
-      "totalWins": 4
+      "totalWins": 5
     },
     {
       "id": 2,
@@ -483,6 +483,14 @@
       "amount": 3,
       "description": "Aposta no mines",
       "date": "2025-12-20T04:28:56.213Z"
+    },
+    {
+      "id": 1766204948024,
+      "userId": 1,
+      "type": "win",
+      "amount": 14.100000000000001,
+      "description": "Ganho no mines",
+      "date": "2025-12-20T04:29:08.024Z"
     }
   ],
   "bets": [
@@ -697,5 +705,5 @@
   ],
   "houseProfit": 426207.85,
   "jackpot": 1315576.1776585123,
-  "lastUpdate": "2025-12-20T04:28:56.865Z"
+  "lastUpdate": "2025-12-20T04:29:08.024Z"
 }
