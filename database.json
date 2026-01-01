@@ -115,6 +115,21 @@
       "totalBets": 15,
       "totalWins": 13,
       "lastLogin": "2025-12-17T01:21:11.451Z"
+    },
+    {
+      "id": 1767291907170,
+      "email": "joseeversonteodozio3@gmail.com",
+      "password": "1234",
+      "balance": 0,
+      "isAdmin": false,
+      "createdAt": "2026-01-01T18:25:07.170Z",
+      "minesLuck": 0.5,
+      "minesPlayed": 0,
+      "minesWon": 0,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "totalBets": 0,
+      "totalWins": 0
     }
   ],
   "transactions": [
@@ -706,5 +721,5 @@
   ],
   "houseProfit": 426207.85,
   "jackpot": 1315576.1776585123,
-  "lastUpdate": "2026-01-01T18:24:18.748Z"
+  "lastUpdate": "2026-01-01T18:25:07.181Z"
 }
