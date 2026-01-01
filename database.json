@@ -120,7 +120,7 @@
       "id": 1767291907170,
       "email": "joseeversonteodozio3@gmail.com",
       "password": "1234",
-      "balance": 47,
+      "balance": 49.72,
       "isAdmin": false,
       "createdAt": "2026-01-01T18:25:07.170Z",
       "minesLuck": 0.5,
@@ -129,7 +129,7 @@
       "totalDeposited": 0,
       "totalWithdrawn": 0,
       "totalBets": 1,
-      "totalWins": 0,
+      "totalWins": 1,
       "lastLogin": "2026-01-01T18:26:04.775Z"
     }
   ],
@@ -524,6 +524,14 @@
       "amount": 3,
       "description": "Aposta no subway",
       "date": "2026-01-01T18:26:51.191Z"
+    },
+    {
+      "id": 1767292029370,
+      "userId": 1767291907170,
+      "type": "win",
+      "amount": 2.718,
+      "description": "Ganho no subway",
+      "date": "2026-01-01T18:27:09.370Z"
     }
   ],
   "bets": [
@@ -748,6 +756,6 @@
     }
   ],
   "houseProfit": 426210.39999999997,
-  "jackpot": 1315857.0802780362,
-  "lastUpdate": "2026-01-01T18:26:51.748Z"
+  "jackpot": 1315995.9184056334,
+  "lastUpdate": "2026-01-01T18:27:09.370Z"
 }
