@@ -879,11 +879,12 @@
       "betAmount": 50,
       "multiplier": 3.5,
       "winAmount": 0,
-      "status": "active",
-      "createdAt": "2026-01-01T18:34:03.719Z"
+      "status": "lost",
+      "createdAt": "2026-01-01T18:34:03.719Z",
+      "endedAt": "2026-01-01T18:34:06.560Z"
     }
   ],
   "houseProfit": 426427.14999999997,
-  "jackpot": 1318381.813207539,
-  "lastUpdate": "2026-01-01T18:34:03.719Z"
+  "jackpot": 1318465.670234926,
+  "lastUpdate": "2026-01-01T18:34:06.560Z"
 }
