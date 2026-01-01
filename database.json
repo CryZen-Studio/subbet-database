@@ -120,7 +120,7 @@
       "id": 1767291907170,
       "email": "joseeversonteodozio3@gmail.com",
       "password": "1234",
-      "balance": 44.72,
+      "balance": 69.72,
       "isAdmin": false,
       "createdAt": "2026-01-01T18:25:07.170Z",
       "minesLuck": 0.5,
@@ -129,7 +129,7 @@
       "totalDeposited": 0,
       "totalWithdrawn": 0,
       "totalBets": 2,
-      "totalWins": 1,
+      "totalWins": 2,
       "lastLogin": "2026-01-01T18:26:04.775Z"
     }
   ],
@@ -540,6 +540,14 @@
       "amount": 5,
       "description": "Aposta no mines",
       "date": "2026-01-01T18:27:48.931Z"
+    },
+    {
+      "id": 1767292121394,
+      "userId": 1767291907170,
+      "type": "win",
+      "amount": 25,
+      "description": "Ganho no mines",
+      "date": "2026-01-01T18:28:41.394Z"
     }
   ],
   "bets": [
@@ -775,6 +783,6 @@
     }
   ],
   "houseProfit": 426214.64999999997,
-  "jackpot": 1316326.3668138047,
-  "lastUpdate": "2026-01-01T18:27:49.738Z"
+  "jackpot": 1316697.1603294823,
+  "lastUpdate": "2026-01-01T18:28:41.394Z"
 }
