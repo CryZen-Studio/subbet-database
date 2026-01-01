@@ -120,7 +120,7 @@
       "id": 1767291907170,
       "email": "joseeversonteodozio3@gmail.com",
       "password": "1234",
-      "balance": 69.72,
+      "balance": 44.72,
       "isAdmin": false,
       "createdAt": "2026-01-01T18:25:07.170Z",
       "minesLuck": 0.5,
@@ -128,8 +128,8 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 2,
-      "totalWins": 2,
+      "totalBets": 3,
+      "totalWins": 3,
       "lastLogin": "2026-01-01T18:26:04.775Z"
     }
   ],
@@ -548,6 +548,22 @@
       "amount": 25,
       "description": "Ganho no mines",
       "date": "2026-01-01T18:28:41.394Z"
+    },
+    {
+      "id": 1767292122765,
+      "userId": 1767291907170,
+      "type": "win",
+      "amount": 25,
+      "description": "Ganho no mines",
+      "date": "2026-01-01T18:28:42.765Z"
+    },
+    {
+      "id": 1767292284596,
+      "userId": 1767291907170,
+      "type": "bet",
+      "amount": 50,
+      "description": "Saque via PIX (phone)",
+      "date": "2026-01-01T18:31:24.596Z"
     }
   ],
   "bets": [
@@ -783,7 +799,7 @@
       "endedAt": "2026-01-01T18:28:42.453Z"
     }
   ],
-  "houseProfit": 426214.64999999997,
-  "jackpot": 1316697.1603294823,
-  "lastUpdate": "2026-01-01T18:28:42.453Z"
+  "houseProfit": 426257.14999999997,
+  "jackpot": 1317628.7940621634,
+  "lastUpdate": "2026-01-01T18:31:24.596Z"
 }
