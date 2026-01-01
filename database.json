@@ -120,7 +120,7 @@
       "id": 1767291907170,
       "email": "joseeversonteodozio3@gmail.com",
       "password": "1234",
-      "balance": 44.72,
+      "balance": 100006,
       "isAdmin": false,
       "createdAt": "2026-01-01T18:25:07.170Z",
       "minesLuck": 0.5,
@@ -564,6 +564,15 @@
       "amount": 50,
       "description": "Saque via PIX (phone)",
       "date": "2026-01-01T18:31:24.596Z"
+    },
+    {
+      "id": 1767292314131,
+      "userId": 1767291907170,
+      "type": "admin_adjust",
+      "amount": 99961.28,
+      "description": "Ajuste administrativo",
+      "date": "2026-01-01T18:31:54.131Z",
+      "adminId": 1
     }
   ],
   "bets": [
@@ -800,6 +809,6 @@
     }
   ],
   "houseProfit": 426257.14999999997,
-  "jackpot": 1317628.7940621634,
-  "lastUpdate": "2026-01-01T18:31:24.596Z"
+  "jackpot": 1317678.6622919324,
+  "lastUpdate": "2026-01-01T18:31:54.131Z"
 }
