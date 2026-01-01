@@ -120,7 +120,7 @@
       "id": 1767291907170,
       "email": "joseeversonteodozio3@gmail.com",
       "password": "1234",
-      "balance": 0,
+      "balance": 50,
       "isAdmin": false,
       "createdAt": "2026-01-01T18:25:07.170Z",
       "minesLuck": 0.5,
@@ -506,6 +506,15 @@
       "amount": 14.100000000000001,
       "description": "Ganho no mines",
       "date": "2025-12-20T04:29:08.024Z"
+    },
+    {
+      "id": 1767291937914,
+      "userId": 1767291907170,
+      "type": "admin_adjust",
+      "amount": 50,
+      "description": "Ajuste administrativo",
+      "date": "2026-01-01T18:25:37.914Z",
+      "adminId": 1
     }
   ],
   "bets": [
@@ -721,5 +730,5 @@
   ],
   "houseProfit": 426207.85,
   "jackpot": 1315576.1776585123,
-  "lastUpdate": "2026-01-01T18:25:26.479Z"
+  "lastUpdate": "2026-01-01T18:25:37.914Z"
 }
