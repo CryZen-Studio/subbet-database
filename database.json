@@ -852,9 +852,19 @@
       "status": "lost",
       "createdAt": "2026-01-01T18:33:11.434Z",
       "endedAt": "2026-01-01T18:33:51.776Z"
+    },
+    {
+      "id": 1767292436871,
+      "userId": 1767291907170,
+      "game": "mines",
+      "betAmount": 50,
+      "multiplier": 3.5,
+      "winAmount": 0,
+      "status": "active",
+      "createdAt": "2026-01-01T18:33:56.871Z"
     }
   ],
   "houseProfit": 426384.64999999997,
   "jackpot": 1318376.881597179,
-  "lastUpdate": "2026-01-01T18:33:56.128Z"
+  "lastUpdate": "2026-01-01T18:33:56.871Z"
 }
