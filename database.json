@@ -124,7 +124,7 @@
       "isAdmin": false,
       "createdAt": "2026-01-01T18:25:07.170Z",
       "minesLuck": 0.5,
-      "minesPlayed": 0,
+      "minesPlayed": 1,
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
@@ -827,6 +827,6 @@
     }
   ],
   "houseProfit": 426299.64999999997,
-  "jackpot": 1317866.454484084,
-  "lastUpdate": "2026-01-01T18:32:41.980Z"
+  "jackpot": 1318057.7212299474,
+  "lastUpdate": "2026-01-01T18:32:53.956Z"
 }
