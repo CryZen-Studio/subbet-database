@@ -930,12 +930,13 @@
       "game": "scratch",
       "betAmount": 10,
       "multiplier": 1,
-      "winAmount": 0,
-      "status": "active",
-      "createdAt": "2026-05-19T22:10:18.799Z"
+      "winAmount": 20,
+      "status": "cashed_out",
+      "createdAt": "2026-05-19T22:10:18.799Z",
+      "endedAt": "2026-05-19T22:10:39.911Z"
     }
   ],
   "houseProfit": 426435.64999999997,
-  "jackpot": 1318675.3639989183,
-  "lastUpdate": "2026-05-19T22:10:37.862Z"
+  "jackpot": 1318772.6255369235,
+  "lastUpdate": "2026-05-19T22:10:39.911Z"
 }
