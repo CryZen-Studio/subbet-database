@@ -1082,12 +1082,13 @@
       "game": "subway",
       "betAmount": 50,
       "multiplier": 1,
-      "winAmount": 0,
-      "status": "active",
-      "createdAt": "2026-05-19T22:31:07.927Z"
+      "winAmount": 54.800000000000004,
+      "status": "cashed_out",
+      "createdAt": "2026-05-19T22:31:07.927Z",
+      "endedAt": "2026-05-19T22:31:31.369Z"
     }
   ],
   "houseProfit": 426546.14999999997,
   "jackpot": 1320226.3869757429,
-  "lastUpdate": "2026-05-19T22:31:30.264Z"
+  "lastUpdate": "2026-05-19T22:31:31.369Z"
 }
