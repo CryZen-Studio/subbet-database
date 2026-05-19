@@ -140,7 +140,7 @@
       "isAdmin": false,
       "createdAt": "2026-05-19T21:59:06.705Z",
       "minesLuck": 1,
-      "minesPlayed": 0,
+      "minesPlayed": 1,
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
@@ -1012,11 +1012,12 @@
       "betAmount": 10,
       "multiplier": 7.5,
       "winAmount": 0,
-      "status": "active",
-      "createdAt": "2026-05-19T22:12:57.402Z"
+      "status": "lost",
+      "createdAt": "2026-05-19T22:12:57.402Z",
+      "endedAt": "2026-05-19T22:13:05.691Z"
     }
   ],
   "houseProfit": 426495.14999999997,
-  "jackpot": 1319776.526564858,
-  "lastUpdate": "2026-05-19T22:12:57.402Z"
+  "jackpot": 1319827.856845831,
+  "lastUpdate": "2026-05-19T22:13:05.694Z"
 }
