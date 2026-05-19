@@ -147,6 +147,21 @@
       "totalBets": 6,
       "totalWins": 3,
       "lastLogin": "2026-05-19T22:10:06.172Z"
+    },
+    {
+      "id": 1779229667377,
+      "email": "igorzingrande@gmail.com",
+      "password": "161120",
+      "balance": 0,
+      "isAdmin": false,
+      "createdAt": "2026-05-19T22:27:47.377Z",
+      "minesLuck": 0.5,
+      "minesPlayed": 0,
+      "minesWon": 0,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "totalBets": 0,
+      "totalWins": 0
     }
   ],
   "transactions": [
@@ -1038,5 +1053,5 @@
   ],
   "houseProfit": 426503.64999999997,
   "jackpot": 1319885.0005096386,
-  "lastUpdate": "2026-05-19T22:13:15.992Z"
+  "lastUpdate": "2026-05-19T22:27:47.485Z"
 }
