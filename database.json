@@ -161,7 +161,8 @@
       "totalDeposited": 0,
       "totalWithdrawn": 0,
       "totalBets": 0,
-      "totalWins": 0
+      "totalWins": 0,
+      "lastLogin": "2026-05-19T22:30:02.157Z"
     }
   ],
   "transactions": [
@@ -1062,5 +1063,5 @@
   ],
   "houseProfit": 426503.64999999997,
   "jackpot": 1319976.029817678,
-  "lastUpdate": "2026-05-19T22:29:41.628Z"
+  "lastUpdate": "2026-05-19T22:30:02.168Z"
 }
