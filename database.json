@@ -131,6 +131,21 @@
       "totalBets": 7,
       "totalWins": 3,
       "lastLogin": "2026-01-01T18:32:12.285Z"
+    },
+    {
+      "id": 1779227946705,
+      "email": "igorasds@gmail.com",
+      "password": "161120",
+      "balance": 0,
+      "isAdmin": false,
+      "createdAt": "2026-05-19T21:59:06.705Z",
+      "minesLuck": 0.5,
+      "minesPlayed": 0,
+      "minesWon": 0,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "totalBets": 0,
+      "totalWins": 0
     }
   ],
   "transactions": [
@@ -886,5 +901,5 @@
   ],
   "houseProfit": 426427.14999999997,
   "jackpot": 1318465.670234926,
-  "lastUpdate": "2026-01-10T20:54:48.572Z"
+  "lastUpdate": "2026-05-19T21:59:06.707Z"
 }
