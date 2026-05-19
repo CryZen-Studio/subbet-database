@@ -152,7 +152,7 @@
       "id": 1779229667377,
       "email": "igorzingrande@gmail.com",
       "password": "161120",
-      "balance": 132.92,
+      "balance": 82.92,
       "isAdmin": false,
       "createdAt": "2026-05-19T22:27:47.377Z",
       "minesLuck": 0.97,
@@ -160,7 +160,7 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 0,
+      "totalBets": 1,
       "totalWins": 0,
       "lastLogin": "2026-05-19T22:30:32.475Z"
     }
@@ -727,6 +727,14 @@
       "description": "Ajuste administrativo",
       "date": "2026-05-19T22:29:41.628Z",
       "adminId": 1
+    },
+    {
+      "id": 1779229866364,
+      "userId": 1779229667377,
+      "type": "bet",
+      "amount": 50,
+      "description": "Aposta no subway",
+      "date": "2026-05-19T22:31:06.364Z"
     }
   ],
   "bets": [
@@ -1061,7 +1069,7 @@
       "endedAt": "2026-05-19T22:13:15.992Z"
     }
   ],
-  "houseProfit": 426503.64999999997,
-  "jackpot": 1319976.029817678,
-  "lastUpdate": "2026-05-19T22:30:32.476Z"
+  "houseProfit": 426546.14999999997,
+  "jackpot": 1320042.0114458422,
+  "lastUpdate": "2026-05-19T22:31:06.365Z"
 }
