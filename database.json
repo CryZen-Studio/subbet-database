@@ -136,7 +136,7 @@
       "id": 1779227946705,
       "email": "igorasds@gmail.com",
       "password": "161120",
-      "balance": 20.98,
+      "balance": 10.98,
       "isAdmin": false,
       "createdAt": "2026-05-19T21:59:06.705Z",
       "minesLuck": 1,
@@ -144,7 +144,7 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 4,
+      "totalBets": 5,
       "totalWins": 3,
       "lastLogin": "2026-05-19T22:10:06.172Z"
     }
@@ -686,6 +686,14 @@
       "amount": 10,
       "description": "Ganho no scratch",
       "date": "2026-05-19T22:12:40.275Z"
+    },
+    {
+      "id": 1779228775154,
+      "userId": 1779227946705,
+      "type": "bet",
+      "amount": 10,
+      "description": "Aposta no mines",
+      "date": "2026-05-19T22:12:55.154Z"
     }
   ],
   "bets": [
@@ -998,7 +1006,7 @@
       "endedAt": "2026-05-19T22:12:42.598Z"
     }
   ],
-  "houseProfit": 426486.64999999997,
-  "jackpot": 1319689.9861274953,
-  "lastUpdate": "2026-05-19T22:12:42.598Z"
+  "houseProfit": 426495.14999999997,
+  "jackpot": 1319758.4315317052,
+  "lastUpdate": "2026-05-19T22:12:55.155Z"
 }
