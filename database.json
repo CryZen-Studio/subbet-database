@@ -915,9 +915,19 @@
       "status": "lost",
       "createdAt": "2026-01-01T18:34:03.719Z",
       "endedAt": "2026-01-01T18:34:06.560Z"
+    },
+    {
+      "id": 1779228618799,
+      "userId": 1779227946705,
+      "game": "scratch",
+      "betAmount": 10,
+      "multiplier": 1,
+      "winAmount": 0,
+      "status": "active",
+      "createdAt": "2026-05-19T22:10:18.799Z"
     }
   ],
   "houseProfit": 426435.64999999997,
-  "jackpot": 1318550.8509232614,
-  "lastUpdate": "2026-05-19T22:10:14.792Z"
+  "jackpot": 1318596.4472930408,
+  "lastUpdate": "2026-05-19T22:10:18.799Z"
 }
