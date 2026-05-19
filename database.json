@@ -136,7 +136,7 @@
       "id": 1779227946705,
       "email": "igorasds@gmail.com",
       "password": "161120",
-      "balance": 20.98,
+      "balance": 10.98,
       "isAdmin": false,
       "createdAt": "2026-05-19T21:59:06.705Z",
       "minesLuck": 1,
@@ -144,7 +144,7 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 3,
+      "totalBets": 4,
       "totalWins": 2,
       "lastLogin": "2026-05-19T22:10:06.172Z"
     }
@@ -670,6 +670,14 @@
       "amount": 40,
       "description": "Saque via PIX (email)",
       "date": "2026-05-19T22:12:04.803Z"
+    },
+    {
+      "id": 1779228749012,
+      "userId": 1779227946705,
+      "type": "bet",
+      "amount": 10,
+      "description": "Aposta no scratch",
+      "date": "2026-05-19T22:12:29.012Z"
     }
   ],
   "bets": [
@@ -971,7 +979,7 @@
       "endedAt": "2026-05-19T22:10:59.978Z"
     }
   ],
-  "houseProfit": 426478.14999999997,
-  "jackpot": 1319326.8227708612,
-  "lastUpdate": "2026-05-19T22:12:04.803Z"
+  "houseProfit": 426486.64999999997,
+  "jackpot": 1319517.581975687,
+  "lastUpdate": "2026-05-19T22:12:29.012Z"
 }
