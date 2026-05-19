@@ -1067,9 +1067,19 @@
       "status": "lost",
       "createdAt": "2026-05-19T22:13:11.134Z",
       "endedAt": "2026-05-19T22:13:15.992Z"
+    },
+    {
+      "id": 1779229867927,
+      "userId": 1779229667377,
+      "game": "subway",
+      "betAmount": 50,
+      "multiplier": 1,
+      "winAmount": 0,
+      "status": "active",
+      "createdAt": "2026-05-19T22:31:07.927Z"
     }
   ],
   "houseProfit": 426546.14999999997,
   "jackpot": 1320042.0114458422,
-  "lastUpdate": "2026-05-19T22:31:06.365Z"
+  "lastUpdate": "2026-05-19T22:31:07.927Z"
 }
