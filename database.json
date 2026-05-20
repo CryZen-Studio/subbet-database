@@ -1109,12 +1109,13 @@
       "game": "mines",
       "betAmount": 50,
       "multiplier": 1.5,
-      "winAmount": 0,
-      "status": "active",
-      "createdAt": "2026-05-20T00:09:11.732Z"
+      "winAmount": 325,
+      "status": "cashed_out",
+      "createdAt": "2026-05-20T00:09:11.732Z",
+      "endedAt": "2026-05-20T00:09:26.176Z"
     }
   ],
   "houseProfit": 426588.64999999997,
   "jackpot": 1320325.8273254286,
-  "lastUpdate": "2026-05-20T00:09:24.618Z"
+  "lastUpdate": "2026-05-20T00:09:26.176Z"
 }
