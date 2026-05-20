@@ -152,7 +152,7 @@
       "id": 1779229667377,
       "email": "igorzingrande@gmail.com",
       "password": "161120",
-      "balance": 137.72,
+      "balance": 87.72,
       "isAdmin": false,
       "createdAt": "2026-05-19T22:27:47.377Z",
       "minesLuck": 0.97,
@@ -160,7 +160,7 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 1,
+      "totalBets": 2,
       "totalWins": 1,
       "lastLogin": "2026-05-20T00:08:50.116Z"
     }
@@ -743,6 +743,14 @@
       "amount": 54.800000000000004,
       "description": "Ganho no subway",
       "date": "2026-05-19T22:31:30.264Z"
+    },
+    {
+      "id": 1779235750323,
+      "userId": 1779229667377,
+      "type": "bet",
+      "amount": 50,
+      "description": "Aposta no mines",
+      "date": "2026-05-20T00:09:10.336Z"
     }
   ],
   "bets": [
@@ -1088,7 +1096,7 @@
       "endedAt": "2026-05-19T22:31:31.369Z"
     }
   ],
-  "houseProfit": 426546.14999999997,
-  "jackpot": 1320226.3869757429,
-  "lastUpdate": "2026-05-20T00:08:50.203Z"
+  "houseProfit": 426588.64999999997,
+  "jackpot": 1320320.1884101203,
+  "lastUpdate": "2026-05-20T00:09:10.336Z"
 }
