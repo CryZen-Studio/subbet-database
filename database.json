@@ -1121,9 +1121,19 @@
       "status": "cashed_out",
       "createdAt": "2026-05-20T00:09:11.732Z",
       "endedAt": "2026-05-20T00:09:26.176Z"
+    },
+    {
+      "id": 1779235779828,
+      "userId": 1779229667377,
+      "game": "mines",
+      "betAmount": 3,
+      "multiplier": 1.5,
+      "winAmount": 0,
+      "status": "active",
+      "createdAt": "2026-05-20T00:09:39.828Z"
     }
   ],
   "houseProfit": 426591.19999999995,
   "jackpot": 1320418.1984292548,
-  "lastUpdate": "2026-05-20T00:09:38.550Z"
+  "lastUpdate": "2026-05-20T00:09:39.828Z"
 }
