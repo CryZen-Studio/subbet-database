@@ -10,7 +10,7 @@
       "minesLuck": 0.5,
       "minesPlayed": 3,
       "minesWon": 0,
-      "lastLogin": "2026-05-19T22:28:56.415Z",
+      "lastLogin": "2026-05-20T00:01:42.414Z",
       "totalBets": 7,
       "totalWins": 5
     },
@@ -1090,5 +1090,5 @@
   ],
   "houseProfit": 426546.14999999997,
   "jackpot": 1320226.3869757429,
-  "lastUpdate": "2026-05-19T23:16:15.884Z"
+  "lastUpdate": "2026-05-20T00:01:42.414Z"
 }
