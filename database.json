@@ -152,7 +152,7 @@
       "id": 1779229667377,
       "email": "igorzingrande@gmail.com",
       "password": "161120",
-      "balance": 18.98,
+      "balance": 13.98,
       "isAdmin": false,
       "createdAt": "2026-05-19T22:27:47.377Z",
       "minesLuck": 0.97,
@@ -160,7 +160,7 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 9,
+      "totalBets": 10,
       "totalWins": 2,
       "lastLogin": "2026-05-20T20:10:44.189Z"
     }
@@ -824,6 +824,14 @@
       "amount": 25,
       "description": "Aposta no mines",
       "date": "2026-05-20T20:13:14.722Z"
+    },
+    {
+      "id": 1779308023933,
+      "userId": 1779229667377,
+      "type": "bet",
+      "amount": 5,
+      "description": "Aposta no mines",
+      "date": "2026-05-20T20:13:43.933Z"
     }
   ],
   "bets": [
@@ -1245,7 +1253,7 @@
       "endedAt": "2026-05-20T20:13:33.687Z"
     }
   ],
-  "houseProfit": 427771.8499999999,
-  "jackpot": 1323413.1839886124,
-  "lastUpdate": "2026-05-20T20:13:33.687Z"
+  "houseProfit": 427776.0999999999,
+  "jackpot": 1323536.168980091,
+  "lastUpdate": "2026-05-20T20:13:43.933Z"
 }
