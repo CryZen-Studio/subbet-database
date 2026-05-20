@@ -152,7 +152,7 @@
       "id": 1779229667377,
       "email": "igorzingrande@gmail.com",
       "password": "161120",
-      "balance": 409.72,
+      "balance": 9.72,
       "isAdmin": false,
       "createdAt": "2026-05-19T22:27:47.377Z",
       "minesLuck": 0.97,
@@ -160,7 +160,7 @@
       "minesWon": 0,
       "totalDeposited": 0,
       "totalWithdrawn": 0,
-      "totalBets": 3,
+      "totalBets": 4,
       "totalWins": 2,
       "lastLogin": "2026-05-20T00:08:50.116Z"
     }
@@ -767,6 +767,14 @@
       "amount": 3,
       "description": "Aposta no mines",
       "date": "2026-05-20T00:09:38.550Z"
+    },
+    {
+      "id": 1779235842759,
+      "userId": 1779229667377,
+      "type": "bet",
+      "amount": 400,
+      "description": "Saque via PIX (email)",
+      "date": "2026-05-20T00:10:42.765Z"
     }
   ],
   "bets": [
@@ -1129,11 +1137,12 @@
       "betAmount": 3,
       "multiplier": 1.5,
       "winAmount": 0,
-      "status": "active",
-      "createdAt": "2026-05-20T00:09:39.828Z"
+      "status": "lost",
+      "createdAt": "2026-05-20T00:09:39.828Z",
+      "endedAt": "2026-05-20T00:09:44.162Z"
     }
   ],
-  "houseProfit": 426591.19999999995,
-  "jackpot": 1320432.902511262,
-  "lastUpdate": "2026-05-20T00:09:44.158Z"
+  "houseProfit": 426931.19999999995,
+  "jackpot": 1320589.8830794226,
+  "lastUpdate": "2026-05-20T00:10:42.773Z"
 }
