@@ -152,7 +152,7 @@
       "id": 1779229667377,
       "email": "igorzingrande@gmail.com",
       "password": "161120",
-      "balance": 1.72,
+      "balance": 999.98,
       "isAdmin": false,
       "createdAt": "2026-05-19T22:27:47.377Z",
       "minesLuck": 0.97,
@@ -791,6 +791,15 @@
       "amount": 3,
       "description": "Aposta no mines",
       "date": "2026-05-20T00:11:32.463Z"
+    },
+    {
+      "id": 1779307832893,
+      "userId": 1779229667377,
+      "type": "admin_adjust",
+      "amount": 998.26,
+      "description": "Ajuste administrativo",
+      "date": "2026-05-20T20:10:32.893Z",
+      "adminId": 1
     }
   ],
   "bets": [
@@ -1181,5 +1190,5 @@
   ],
   "houseProfit": 426937.99999999994,
   "jackpot": 1321175.9374404957,
-  "lastUpdate": "2026-05-20T20:10:16.574Z"
+  "lastUpdate": "2026-05-20T20:10:32.893Z"
 }
