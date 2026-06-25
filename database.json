@@ -163,6 +163,21 @@
       "totalBets": 12,
       "totalWins": 4,
       "lastLogin": "2026-05-20T20:10:44.189Z"
+    },
+    {
+      "id": 1782413720585,
+      "email": "igossdas@gmail.com",
+      "password": "0298",
+      "balance": 0,
+      "isAdmin": false,
+      "createdAt": "2026-06-25T18:55:20.585Z",
+      "minesLuck": 0.5,
+      "minesPlayed": 0,
+      "minesWon": 0,
+      "totalDeposited": 0,
+      "totalWithdrawn": 0,
+      "totalBets": 0,
+      "totalWins": 0
     }
   ],
   "transactions": [
@@ -1309,5 +1324,5 @@
   ],
   "houseProfit": 427882.3499999999,
   "jackpot": 1325332.856635827,
-  "lastUpdate": "2026-05-20T20:16:10.483Z"
+  "lastUpdate": "2026-06-25T18:55:20.585Z"
 }
